@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
 const produtos = [
     {
         "id": 1,
-        "nome": "Banana",
+        "nome": "Morango",
         "descricao": "Fruta",
         "preco": 7.99
     },
